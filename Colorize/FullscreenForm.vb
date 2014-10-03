@@ -1,6 +1,6 @@
 Public Class FullscreenForm
     Dim r, g, b As Integer
-    Dim nrOfLoops As Integer = =
+    Dim nrOfLoops As Integer
 
     Private Sub FullscreenForm_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         'Get rid of the cursor.
